@@ -1,0 +1,38 @@
+.upper {
+    width: 600px;
+    height: 300px;
+    border: 6px solid black;
+    }
+    
+    .a{
+        background-color: #E61A23;
+        width: 600px;
+        height: 50px;
+        position: relative;
+    }
+    .b{
+        background-color: #F7F7F7;
+        width: 600px;
+        height: 50px;
+        position: relative;
+    }
+    
+    .c{
+        background-color: #231C4D;
+        width: 600px;
+        height: 100px;
+        position: relative;
+    }
+    .d{
+        background-color: #F7F7F7;
+        width: 600px;
+        height: 50px;
+        position: relative;
+    }
+    
+    .e{
+        background-color: #E61A23;
+        width: 600px;
+        height: 50px;
+        position: relative;
+    }
